@@ -1,0 +1,16 @@
+#;Name;Type 1;Type 2;Total;HP;Attack;Defense;Sp. Atk;Sp. Def;Speed;Generation;Legendary
+81;Magnemite;Electric;Steel;325;25;35;70;95;55;45;1;False
+82;Magneton;Electric;Steel;465;50;60;95;120;70;70;1;False
+125;Electabuzz;Electric;;490;65;83;57;95;85;105;1;False
+135;Jolteon;Electric;;525;65;65;60;110;95;130;1;False
+181;Ampharos;Electric;;510;90;75;85;115;90;55;2;False
+310;Manectric;Electric;;475;70;75;60;105;60;105;3;False
+405;Luxray;Electric;;523;80;120;79;95;79;70;4;False
+462;Magnezone;Electric;Steel;535;70;70;115;130;90;60;4;False
+466;Electivire;Electric;;540;75;123;67;95;85;95;4;False
+479;Rotom;Electric;Ghost;440;50;50;77;95;77;91;4;False
+479;RotomHeat Rotom;Electric;Fire;520;50;65;107;105;107;86;4;False
+479;RotomWash Rotom;Electric;Water;520;50;65;107;105;107;86;4;False
+479;RotomFrost Rotom;Electric;Ice;520;50;65;107;105;107;86;4;False
+479;RotomFan Rotom;Electric;Flying;520;50;65;107;105;107;86;4;False
+479;RotomMow Rotom;Electric;Grass;520;50;65;107;105;107;86;4;False
